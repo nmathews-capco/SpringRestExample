@@ -12,7 +12,7 @@
 		<org.springframework-version>5.1.4.RELEASE</org.springframework-version>
 		<org.aspectj-version>1.7.4</org.aspectj-version>
 		<org.slf4j-version>1.7.5</org.slf4j-version>
-		<jackson.databind-version>2.2.3</jackson.databind-version>
+		<jackson.databind-version>2.13.4.1</jackson.databind-version>
 		<spring-security-core.version>5.1.4.RELEASE</spring-security-core.version>
 		<spring-security-web.version>5.1.4.RELEASE</spring-security-web.version>
 		<spring-security-config.version>5.1.4.RELEASE</spring-security-config.version>
